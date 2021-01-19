@@ -2,6 +2,7 @@ baseURL = "/"
 title = "敖小剑的学习笔记"
 
 enableRobotsTXT = true
+uglyurls = true
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
 theme = ["docsy"]
